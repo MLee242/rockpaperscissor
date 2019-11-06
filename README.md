@@ -1,0 +1,1 @@
+Just using javascript to run simple rock paper scissor against computer for 5 times.
